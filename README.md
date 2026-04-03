@@ -18,3 +18,5 @@ React + Vite app that generates images with Hugging Face.
 - Never commit real API keys.
 
 If a key was previously committed, rotate/revoke it in your provider dashboard before pushing.
+
+# Text-to-image-app
